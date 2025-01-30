@@ -1,21 +1,20 @@
-# Better-and-HARDER-Flappy-Bird
+# Multi-API Website 
 ![alt text](images/titlescreen.jpeg)
 ## Description
-This is a little Flappy Bird type game I made using pygame via Pycharm. What makes it special to me is the fact that thi is technically the first game I've made. It doesn't have a lot of features or any really visually appealing elements, but I've put my time into it and as beginner in coding with an experience of probably 2 months (started computer science 5 months ago but the actual time spent on it was not 5 months), I feel pretty confident with this first game, I hope you all like it! **I WILL KEEP UPDATING THIS GAME SINCE IT IS MY FIRST ONE AND I ALSO WANT TO ADD MORE FUN FEATURES!**
-## Installation
-Still trying to figure that out, seeking help with the HackClub staffs hopefully could resolve this issue soon. 
-## How to play
-There are instructions in the game and it was shown in the video. 
-- Use arrow keys to move the plane.
-- Avoid obstacles such as the fighter jets and buildings.
-Pretty simple stuff right?
-## What's included in the game
-Right now there aren't a lot of features just yet, I've tried to include power-ups and more dynamic phases but it was really messing my code up so I had to stick with the more stable version. 
-- Basically there's a dark phase that randomly spawns in, make sure you get ready!
-- This game is pretty hard as spawns are random so let's just say sometimes you run into dead ends hehe. It's done on purpose so it's more like a luck game for high scores. 
-- I've included a friend of ours in this game! Survive for a certain amount of time to meet him.
-## Credits
-Thanks to my friend Henry for making the very prototype of this project shout out to him. 
+This is a Multi API Website I made using Flask Python and Html & Css. You could find some of the most popular APIs in my website such as the weather API and news API.
+## What's included
+- Openweather API
+  It is a weather API that allows you to check the weather or the specific city you want to know.
+- Cat Facts API
+  This is an API that generates random cat facts, don't mind me I'm a cat person!
+- Github Profile Viewer
+  This is a Github API that allows users to search a Github user's repo alongside with the stars and forks by inputting the username of the user.
+- Quote of the Day
+  It is a quote API that generates a new quote every single day.
+- Joke Generator
+  It is an API that generates jokes. You can customize the theme of the joke that it generates.
+- Currency Exchange Rate
+  It is a currency exchange API that allows you to find the exchange rate, and I've also included popular exchange rates with a list of currency codes from different countries. 
 ## License
 I don't know much about this but I found it in the choosealicense.com so I was like sure. 
 

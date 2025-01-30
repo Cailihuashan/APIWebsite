@@ -3,17 +3,17 @@
 ## Description
 This is a Multi API Website I made using Flask Python and Html & Css. You could find some of the most popular APIs in my website such as the weather API and news API.
 ## What's included
-- Openweather API
+- Openweather API:
   It is a weather API that allows you to check the weather or the specific city you want to know.
-- Cat Facts API
+- Cat Facts API:
   This is an API that generates random cat facts, don't mind me I'm a cat person!
-- Github Profile Viewer
+- Github Profile Viewer:
   This is a Github API that allows users to search a Github user's repo alongside with the stars and forks by inputting the username of the user.
-- Quote of the Day
+- Quote of the Day:
   It is a quote API that generates a new quote every single day.
-- Joke Generator
+- Joke Generator:
   It is an API that generates jokes. You can customize the theme of the joke that it generates.
-- Currency Exchange Rate
+- Currency Exchange Rate:
   It is a currency exchange API that allows you to find the exchange rate, and I've also included popular exchange rates with a list of currency codes from different countries. 
 ## License
 I don't know much about this but I found it in the choosealicense.com so I was like sure. 
